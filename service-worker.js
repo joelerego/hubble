@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hubble/precache-manifest.6d0140ed1f98e0947429e81a0a288a6d.js"
+  "/hubble/precache-manifest.599c1289127528daa1c1e5b9e5e1d00a.js"
 );
 
 self.addEventListener('message', (event) => {

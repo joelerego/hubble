@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "401e244a639b324018860fcac79131be",
+    "revision": "9533fcd3f3eb3d9c0c5078087f9a6ee2",
     "url": "/hubble/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hubble/static/js/1.30915e2d.chunk.js"
   },
   {
-    "revision": "d9fa6d12fbe8cde1d197",
-    "url": "/hubble/static/js/10.264d8f85.chunk.js"
+    "revision": "e822b01b158d4cddeb5c",
+    "url": "/hubble/static/js/10.c02da55c.chunk.js"
   },
   {
-    "revision": "5610d4614b4b5dd225a0",
-    "url": "/hubble/static/js/11.2d38d476.chunk.js"
+    "revision": "2aca6ace39c9d2cc3a36",
+    "url": "/hubble/static/js/11.6f981175.chunk.js"
   },
   {
     "revision": "c5c2b742b891cd87c8f5",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hubble/static/js/5.572d1c23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b40a8b2f1138c4645253",
-    "url": "/hubble/static/js/6.44737690.chunk.js"
+    "revision": "cf990ae23b0f0ac730bb",
+    "url": "/hubble/static/js/6.ccf34c8f.chunk.js"
   },
   {
     "revision": "407bdaf2907152d8fe12",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hubble/static/js/9.fb87881f.chunk.js"
   },
   {
-    "revision": "2191bf6dfdbec0fe890d",
-    "url": "/hubble/static/js/main.e9770d64.chunk.js"
+    "revision": "4137a3f6a0f7ddab516a",
+    "url": "/hubble/static/js/main.56331196.chunk.js"
   },
   {
-    "revision": "6cf77b468223e7762dc9",
-    "url": "/hubble/static/js/runtime-main.a1381a42.js"
+    "revision": "6ef89f3b2bd416b85051",
+    "url": "/hubble/static/js/runtime-main.b4c0ccff.js"
   },
   {
     "revision": "d90b3bff9221bde91893bbc7a5083756",
